@@ -2,6 +2,8 @@
 ![sensorFLAME](https://socialify.git.ci/fardardnsyh/sensorFLAME/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 <p id="description">A sensor flame / api make LCD dan Buzzer dan pompa
 
+![sensor api](https://github.com/fardardnsyh/sensorMQ-2/assets/145440594/379cbb2d-8e82-41f1-8097-eaf019641716)
+
 <h2>💻 Built with</h2>
 Technologies used in the project:
 <p align="left"> <a href="https://www.arduino.cc/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a 
